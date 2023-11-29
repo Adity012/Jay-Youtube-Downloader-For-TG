@@ -71,5 +71,5 @@
             "size": "Basic" 
         }
     },
-      "stack": "heroku"
+      "stack": "heroku-22"
 }
