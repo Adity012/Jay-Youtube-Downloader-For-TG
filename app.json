@@ -40,13 +40,13 @@
         
         "GROUP_1_NAME": {
         "description": "Customizeble group 1 name.", "required": true,
-        "value": "🎄 Alpha-X-Community"
+        "value": "Alpha-X-Community"
         },
         
         "GROUP_2_NAME": {
         "description": "Customizeble group 2 name.",
         "required": true, 
-        "value": "✨️ Telegram-Group"
+        "value": "Telegram-Group"
         },
         
         "START_PIC": {
@@ -71,5 +71,5 @@
             "size": "Basic" 
         }
     },
-      "stack": "heroku-22"
+      "stack": "heroku-20"
 }
